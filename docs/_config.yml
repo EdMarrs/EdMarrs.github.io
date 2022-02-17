@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ed Marrs's Git Blog
-email: EdMarrs111@gmail.com
+title: Ed Marrs's Git Page
+email: edmarrs111@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -31,11 +31,8 @@ github_username:  EdMarrs
 
 # Build settings
 theme: minima
-
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
