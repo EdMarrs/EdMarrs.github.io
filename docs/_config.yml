@@ -30,11 +30,12 @@ twitter_username: Eddie_Spaghetti
 github_username:  EdMarrs
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 
 plugins:
   - jekyll-feed
-   - jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
