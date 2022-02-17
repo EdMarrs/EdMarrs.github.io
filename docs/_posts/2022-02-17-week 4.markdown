@@ -4,4 +4,18 @@ title:  "Week 4-Working with Jekyll & Markdown"
 date:   2022-02-10 17:54:21 -0500
 categories: work
 ---
-##Stuff goes here
+This Week I worked on getting my site working with Jekyll!
+
+This is a complicated process, so I will be posting a tutorial on how I setup and use Jekyll for my own site in the near future.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight java %}
+System.out.println("Hello World");
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on Jekyll!.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+
