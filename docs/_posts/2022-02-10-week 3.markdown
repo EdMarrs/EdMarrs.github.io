@@ -6,10 +6,10 @@ categories: work
 ---
 <p class="blog">This week, I explored more into further into markdown. I explored a few new functions in markdown.</p>
 <img src="https://edmarrs.github.io/images/md3.png" alt="md1" style="width:700px;height:600px"/>
-<img src="https://edmarrs.github.io/images/toc.png" alt="md1" style="width:700px;height:600px"/>
+<img src="https://edmarrs.github.io/images/toc.PNG" alt="md1" style="width:700px;height:600px"/>
 <p class="blog">I first decided to make a Table of contents. Markdown preview enhanced has built in features for this, but It felt a bit clunky so I utilized the standard method of doing so. </p>
 <img src="https://edmarrs.github.io/images/md4.png" alt="md1" style="width:700px;height:600px"/>
-<img src="https://edmarrs.github.io/images/imports.png" alt="md1" style="width:700px;height:400px"/>
+<img src="https://edmarrs.github.io/images/imports.PNG" alt="md1" style="width:700px;height:400px"/>
 <p class="blog">I also found in Markdown Preview Enhanced there is a method that allows easy import of different file types, which can make adding certain files super easy! This includes things such as code files, tables and Gifs,and even other markdown files!</p>
 <img src="https://edmarrs.github.io/images/md5.png" alt="md1" style="width:700px;height:400px"/>
 <p class="blog">I also began to look into utilizing both GNU plots and Entity Relationship Diagrams, with Markdown preview enhanced, but I was having difficulty installing the neccesary programs, so I will be working on this more in the future.</p>
