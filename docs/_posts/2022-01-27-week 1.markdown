@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 1-Introduction to Teaching with Technology!"
+date:   2022-01-27 17:54:21 -0500
+categories: work
+---
+<p class="blog">I found it interesting through the texts about the evolution of technology about the rapid growth in recent times. From the text “A Short History of Educational Technology,” it clearly took us a very long time in order to get where we are today. This is likely due to the massive pushbacks any new technology had when attempting to be incorporated into education. </p>
+<img src="https://i.redd.it/el48gr6ndm951.png" alt="tumblrPost" style="width:350px;height:400px"/>
+<h6><i>[thewrongun]. (2020, July 8). "New tech bad" [Online forum post]. Reddit. https://www.reddit.com/r/tumblr/comments/hnfgi5/new_tech_bad/</i></h6>
+<p class="blog">It took an extremely long time to move from an oral history to a written one. However, ever since the 1920’s with the introduction of radio, we seem to be moving on a sharply increasing curve of technological revolution. </p>
+<img src="https://static.seekingalpha.com/uploads/2012/3/22/868714-13324746734794471-Robert-Hallberg.jpg" alt="techEvolutionChart" style="width:500px;height:400px"/>
+<h6><i>Hallberg, R. & Contrarian-Investor.com. (2012, March 23). Accelerating Growth in Technology [Graph]. Seeking Alpha. https://static.seekingalpha.com/uploads/2012/3/22/868714-13324746734794471-Robert-Hallberg.jpg</i></h6>
+<p class="blog">This of course also affects education, and in the past few years, teachers have adopted brand new technologies quicker than ever before in order to help further the education of students. As the article states, it is a paradigm shift for this educational technology. However, it is important to stop and think for a moment. Despite all the good this technology can help with, it has become a full-time job to stay on top of all of the latest trends of technology. Perhaps it is long overdue that we take a step back and reflect for a moment and focus on the core aspect of educational technology; the education itself. All the money spent on elaborate programs are wasted if they don’t actually assist students in the classroom. I think while we won’t be slowing down from this technological boom anytime soon, it is important to look back and make sure that our students are receiving the actual education they deserve, even if it must be taught on chalkboards.</p>
+

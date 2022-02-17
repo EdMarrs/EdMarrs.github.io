@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Week 2-Starting Markdown"
+date:   2022-02-03 17:54:21 -0500
+categories: work
+---
+<p class="blog">Check out my self-assement <a href="files/EdMarrs-EdTechSelfAssessment.docx">HERE</a> </p>
+<p class="blog">This week, I explored more into utilizing markdown for creating documents. In my paticular case, I focused primarily on getting runnable code working in a markdown document.</p>
+<img src="images/md1.PNG" alt="md1" style="width:700px;height:600px"/>
+<p class="blog">My first challenge was to first find a markdown viewer that supports this, as it is not a built in feature. I ended up utilizing Atom and Markdown Preview Enhanced, which supports this functionality.</p>
+<p class="blog">Check it out <a href="https://shd101wyy.github.io/markdown-preview-enhanced/#/">HERE</a> </p>
+<p class="blog">While I managed to get the Scripted Languages operational fairly quickly (Javascript), I had a bit of an issue getting compiled languages working (Java).</p>
+<p class="blog">After a few hours of research, I figured out that I was able to run Java Command Line commands within the typescript, and it would compile them automatically without extra commands. So I made two runnable code blocks for the example I made:</p>
+<ol type="1">
+<li>A File Reader (FileRead.java: This is used to read the text from the main given .java file and format & color it for easy readability.</li>
+<li>The Program Itself (HelloWorld.java): This is the actual code that is run by the program. It's a simple system print to show that the system is up and running.</li>
+</ol>
+<img src="images/md2.PNG" alt="md2" style="width:700px;height:600px"/>
+<p class="blog">All in all, I learned a lot of information about Markdown this week and managed to make something I would likely use in my own lessons.</p>
+<p class="blog">Check out my markdown files <a href="files/TeachingMD.zip">HERE</a> </p>

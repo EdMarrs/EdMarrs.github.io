@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Week 3-Continuing Markdown"
+date:   2022-02-10 17:54:21 -0500
+categories: work
+---
+<p class="blog">This week, I explored more into further into markdown. I explored a few new functions in markdown.</p>
+<img src="images/md3.PNG" alt="md1" style="width:700px;height:600px"/>
+<img src="images/toc.PNG" alt="md1" style="width:700px;height:600px"/>
+<p class="blog">I first decided to make a Table of contents. Markdown preview enhanced has built in features for this, but It felt a bit clunky so I utilized the standard method of doing so. </p>
+<img src="images/md4.PNG" alt="md1" style="width:700px;height:600px"/>
+<img src="images/imports.PNG" alt="md1" style="width:700px;height:400px"/>
+<p class="blog">I also found in Markdown Preview Enhanced there is a method that allows easy import of different file types, which can make adding certain files super easy! This includes things such as code files, tables and Gifs,and even other markdown files!</p>
+<img src="images/md5.PNG" alt="md1" style="width:700px;height:400px"/>
+<p class="blog">I also began to look into utilizing both GNU plots and Entity Relationship Diagrams, with Markdown preview enhanced, but I was having difficulty installing the neccesary programs, so I will be working on this more in the future.</p>
+<p class="blog">Lastly, I was working on creating exports of my files. While I was successful in exporting it to different formats (other .md files, html, pdf, ect) The runnable code would not operate in these formats. However, any code that exists when the file is generated to a markdown file is run and the resulting file contains the output. This could be used for printable worksheets.</p>
+
+<p class="blog">Check out my NEW markdown files <a href="files/TeachingMD-week3.zip">HERE</a> </p>
