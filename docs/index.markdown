@@ -11,5 +11,6 @@ layout: home
 3. Develop more systems & pages for better navigation
 4. Add Projects I’ve worked on in the past as a part of a portfolio
 5. Utilize Bootstrap to clean up the site and make it look nicer
+
 #### There’s still a long way to go, so please bear with me while the Site is worked on!
 ##### For the time being see below for my current work for the Class:
