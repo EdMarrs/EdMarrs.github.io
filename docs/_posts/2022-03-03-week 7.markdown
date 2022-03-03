@@ -16,16 +16,21 @@ After considering these facts, I decided upon making a version of the game "Flap
 
 I first worked on the main bird, which would contain most of the controllers for the game, including the Bird Gravity and Key Checking. It also handles the main collision.
 (NOTE: Due to the way TurtleBlocks seems to want to work, the Collision checks are visually overlapping a bit which can make it a tad annoying to move around and show. The checks are the same, just for different pipes)
+<br>
 ![FBSC1](https://edmarrs.github.io/images/fbsc1.PNG)
 
 After getting that working, I then worked on the Pipes that the player would need to move through. These needed to move left at a consistant rate at a set distance apart from each other. Therefore I used one pipe as the main one, which controls the other pipe.
+<br>
 ![FBSC2](https://edmarrs.github.io/images/fbsc2.PNG)
+
 Once the next set of pipes appear, the player earns a point. They keep earning points until they hit a pipe.
 
 After this was operational, I also needed the functionality to set the starting point of the Pipes as well as tell them to move left at a consistant rate.
+<br>
 ![FBSC3](https://edmarrs.github.io/images/fbsc3.PNG)
 
 Finally, I also needed to make sure that the pipe sprites appeared in the proper place. Since turtle blocks centers all images on the center of the turtle, I made 2 new turtles which follow the main ones and display the pipe sprites so that the player can tell where they are.
+<br>
 ![FBSC4](https://edmarrs.github.io/images/fbsc4.PNG)
 
 Overall, this was a very fun challenge to work on! It was interesting trying to use the limitations of block based code to do very specific tasks.
