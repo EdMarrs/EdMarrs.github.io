@@ -15,4 +15,3 @@ layout: home
 #### There’s still a long way to go, so please bear with me while the Site is worked on!
 ##### For the time being see below for my current work for the Class:
 
-<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
