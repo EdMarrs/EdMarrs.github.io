@@ -1,11 +1,46 @@
 ---
 layout: post
-title:  "Week 10-test"
-date:   2022-03-31 17:54:21 -0500
+title:  "Week 10 - test"
+date:   2022-03-30 17:54:21 -0500
 categories: work
 tags: work week10
 ---
-Test1234
+
+This Week I worked on attempting to get a board game working in turtleblocks!
+
+I kept the following points in mind:
+
+1. The game needed to revolve on a simple loop: In this case a board game is generally a repeable loop, so I had very little issue there.
+2. The game needed to have a simple control: Since TurtleBlocks can only accept simple input, I decided to keep it to single button control.
+3. The game needed to involve a handful of turtles for the game board and control.
+
+After considering these facts, I decided upon making a square board game with some bonus squares on the corners. If a player hits one of the bonus squares, they get a +3 to their roll.
+
+I first worked on the drawing of the board. This was a simple set of cubes being drawn which incremented in color. It drew a number of squares before turning right and continuing until it drew all 4 sides.
+<br>
+![tbg1](https://edmarrs.github.io/images/tbg1.PNG)
+
+After getting that working, I made the bonus squares. This would act similarly to the draw board, but only draw a dot on each corner of the board.
+<br>
+![tbg2](https://edmarrs.github.io/images/tbg2.PNG)
+
+Lastly I worked on the player which was the most complex part of the project. The player waits for a keypress, then randomly generates a number 1-6. It then moves forward that many steps (one at a time!) until it hits that roll number. If moves on a corner, it rotates 90 degrees before continuing to move. If it lands on the corner, it also moves and additional 3 spaces!
+<br>
+![tbg3](https://edmarrs.github.io/images/tbg3.PNG)
+
+This is the final game board. If I were to work on this in the future, I would want to add extra special tiles and a second player, as well as a win state.
+<br>
+![tbg4](https://edmarrs.github.io/images/tbg4.PNG)
+
+Overall, turtleblocks was very interesting to work with! There are a lot of interesting things that can be explored and used to teach students.
+Lastly, I did try to work with some of the plugins, but I was unable to get any of them working with this version.
+
+ 
+
+
+
+
+
 
 
 
