@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   
 feed:
+  path: feed.xml
   tags: true
 
 # Exclude from processing.
