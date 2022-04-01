@@ -22,7 +22,7 @@ The Line Follower Robot and Distance keeper robots were tests of the operation o
 
 <br>
 
-<h2> Line Follower Robot<h2>
+<h2> Line Follower Robot</h2>
 The color detector sensor (Line Follower Bot) had four modes, and used the stock setup for the mBot. I was able to use those four to determine which direction the bot needed to move in:
 
 1. Left in & Right in-The sensor detected a line directly under it, so it should move forward.
