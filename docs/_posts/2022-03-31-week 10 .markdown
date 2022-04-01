@@ -1,39 +1,78 @@
 ---
 layout: post
-title:  "Week 10 - test"
+title:  "Week 11 - Robotics"
 date:   2022-03-30 17:54:21 -0500
 categories: work
-tags: work week10
+tags: work
 ---
 
-This Week I worked on attempting to get a board game working in turtleblocks!
+For the past 2 Weeks I worked on various Robotics projects!
 
-I kept the following points in mind:
+I built the following projects using the onboard Arduino on the mBot:
 
-1. The game needed to revolve on a simple loop: In this case a board game is generally a repeable loop, so I had very little issue there.
-2. The game needed to have a simple control: Since TurtleBlocks can only accept simple input, I decided to keep it to single button control.
-3. The game needed to involve a handful of turtles for the game board and control.
+1. Line follower Robot
+2. Distance Keeper Robot
+3. Wall Following Robot (utilizing a PID controller)
 
-After considering these facts, I decided upon making a square board game with some bonus squares on the corners. If a player hits one of the bonus squares, they get a +3 to their roll.
+I used [this][mbotDoc] document I found to help working with the arduino code with the mBot.
 
-I first worked on the drawing of the board. This was a simple set of cubes being drawn which incremented in color. It drew a number of squares before turning right and continuing until it drew all 4 sides.
+[mbotDoc]: https://docs.google.com/document/d/16uXDUmgN_9jM2sp_KGJtZZfQTpQ2-PzLDtjUFla_FcA/edit#
+
+The Line Follower Robot and Distance keeper robots were tests of the operation of the mBot's various sensors.
+
 <br>
-![tbg1](https://edmarrs.github.io/images/tbg1.PNG)
 
-After getting that working, I made the bonus squares. This would act similarly to the draw board, but only draw a dot on each corner of the board.
+<h2> Line Follower Robot<h2>
+The color detector sensor (Line Follower Bot) had four modes, and used the stock setup for the mBot. I was able to use those four to determine which direction the bot needed to move in:
+
+1. Left in & Right in-The sensor detected a line directly under it, so it should move forward.
+2. Left in & Right out-The sensor did not detect a line on the right side, but did on the left side, so we should move leftward.
+3. Left out & Right in-The sensor did not detect a line on the left side, but did on the right side, so we should move rightward.
+4. Left out & Right out-The sensor did not detect any line, so we should back up until we find one.
+
+By taking all this info in and making the proper calculations based on the logic, we are able to make the bot follow a line!
+
+The code for this project can be found [here][code1].
+[code1]:https://edmarrs.github.io/files/MB_FollowLine.ino
+
 <br>
-![tbg2](https://edmarrs.github.io/images/tbg2.PNG)
+<h2> Distance Keeper Robot<h2>
+The distance keeper robot utilized the ultrasonic sensor on the front to detect how far it was from an object in front of it and made sure it maintained the same distance. It used the stock setup for the mBot.
 
-Lastly I worked on the player which was the most complex part of the project. The player waits for a keypress, then randomly generates a number 1-6. It then moves forward that many steps (one at a time!) until it hits that roll number. If moves on a corner, it rotates 90 degrees before continuing to move. If it lands on the corner, it also moves and additional 3 spaces!
+It utilized the following equation to determine what speed it needed to move in the proper direction:
+
+motor speed = -1*(t-d)*100
+
+t = target distance (in cm).
+d = reading from the sensor of current distance (in cm). 
+
+By using this equation, it was able to calculate the necessary direction to move in.
+
+As an added function, the LED will also change in color depending on distance. If it is too close, it will be Red, and if too far it will be blue. If exactly right it will be green. It will also decrease in intensity the further off of the target it is.
+
+The code for this project can be found [here][code2].
+[code2]:https://edmarrs.github.io/files/MB_KeepDistance.ino
+
 <br>
-![tbg3](https://edmarrs.github.io/images/tbg3.PNG)
+<h2>Wall Follower(with PID controller)<h2>
 
-This is the final game board. If I were to work on this in the future, I would want to add extra special tiles and a second player, as well as a win state.
+This project used the mBot with the ultrasonic sensor mounted on the side of it.
+
+This bot used a PID controller, which is used to take the data given by the ultrasonic sensor and calculate error. From this it can calculate a correction to the motion of the bot and tell the rightmost wheel how hard it needs to spin. The leftmost wheel always spun at a consistant speed and the rightmost one would constantly be in flux depending on distance. This same technology is used in cruse control in a car to keep constant speed.
+
+![PID](https://edmarrs.github.io/images/PID.PNG)
+
+If I were to continue working on this robot, I would add a front ultrasonicsensor so that it could make right turns properly.
+
+A video of the bot in action can be seen [here][video].
+[video]:https://drive.google.com/file/d/1NF47WjkomR1qyrbs2yKVwBqwaLZbAfBL/view?usp=sharing
+
+The code for this project can be found [here][code3].
+[code3]:https://edmarrs.github.io/files/MB_PID.ino
+
 <br>
-![tbg4](https://edmarrs.github.io/images/tbg4.PNG)
+Overall it was definitely fun working with the mBot and the other robotic technologies. It's interesting seeing how the technology can be used at both a very simple and very advanced levels for different learners.
 
-Overall, turtleblocks was very interesting to work with! There are a lot of interesting things that can be explored and used to teach students.
-Lastly, I did try to work with some of the plugins, but I was unable to get any of them working with this version.
 
  
 
