@@ -52,7 +52,8 @@ By using this equation, it was able to calculate the necessary direction to move
 As an added function, the LED will also change in color depending on distance. If it is too close, it will be Red, and if too far it will be blue. If exactly right it will be green. It will also decrease in intensity the further off of the target it is.
 
 The code for this project can be found [here][code2].
-[code2]:https://edmarrs.github.io/files/MB_KeepDistance.ino
+
+[code2] :https://edmarrs.github.io/files/MB_KeepDistance.ino
 
 <br>
 <h2>Wall Follower(with PID controller)</h2>
@@ -66,10 +67,12 @@ This bot used a PID controller, which is used to take the data given by the ultr
 If I were to continue working on this robot, I would add a front ultrasonicsensor so that it could make right turns properly.
 
 A video of the bot in action can be seen [here][video].
-[video]:https://drive.google.com/file/d/1NF47WjkomR1qyrbs2yKVwBqwaLZbAfBL/view?usp=sharing
+
+[video]: https://drive.google.com/file/d/1NF47WjkomR1qyrbs2yKVwBqwaLZbAfBL/view?usp=sharing
 
 The code for this project can be found [here][code3].
-[code3]:https://edmarrs.github.io/files/MB_PID.ino
+
+[code3]: https://edmarrs.github.io/files/MB_PID.ino
 
 <br>
 Overall it was definitely fun working with the mBot and the other robotic technologies. It's interesting seeing how the technology can be used at both a very simple and very advanced levels for different learners.
