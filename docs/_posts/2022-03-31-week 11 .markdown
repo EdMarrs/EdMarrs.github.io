@@ -53,7 +53,7 @@ As an added function, the LED will also change in color depending on distance. I
 
 The code for this project can be found [here][code2].
 
-[code2] :https://edmarrs.github.io/files/MB_KeepDistance.ino
+[code2]: https://edmarrs.github.io/files/MB_KeepDistance.ino
 
 <br>
 <h2>Wall Follower(with PID controller)</h2>
