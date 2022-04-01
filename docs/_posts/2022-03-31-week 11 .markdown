@@ -33,10 +33,11 @@ The color detector sensor (Line Follower Bot) had four modes, and used the stock
 By taking all this info in and making the proper calculations based on the logic, we are able to make the bot follow a line!
 
 The code for this project can be found [here][code1].
-[code1]:https://edmarrs.github.io/files/MB_FollowLine.ino
+
+[code1]: https://edmarrs.github.io/files/MB_FollowLine.ino
 
 <br>
-<h2> Distance Keeper Robot<h2>
+<h2> Distance Keeper Robot</h2>
 The distance keeper robot utilized the ultrasonic sensor on the front to detect how far it was from an object in front of it and made sure it maintained the same distance. It used the stock setup for the mBot.
 
 It utilized the following equation to determine what speed it needed to move in the proper direction:
@@ -54,7 +55,7 @@ The code for this project can be found [here][code2].
 [code2]:https://edmarrs.github.io/files/MB_KeepDistance.ino
 
 <br>
-<h2>Wall Follower(with PID controller)<h2>
+<h2>Wall Follower(with PID controller)</h2>
 
 This project used the mBot with the ultrasonic sensor mounted on the side of it.
 
