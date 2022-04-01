@@ -66,9 +66,9 @@ This bot used a PID controller, which is used to take the data given by the ultr
 
 If I were to continue working on this robot, I would add a front ultrasonicsensor so that it could make right turns properly.
 
-A video of the bot in action can be seen [here][video].
+A video of the bot in action can be seen below:
 
-[video]: https://drive.google.com/file/d/1NF47WjkomR1qyrbs2yKVwBqwaLZbAfBL/view?usp=sharing
+<iframe src="https://drive.google.com/file/d/1NF47WjkomR1qyrbs2yKVwBqwaLZbAfBL/preview" width="640" height="480" allow="autoplay"></iframe>
 
 The code for this project can be found [here][code3].
 
