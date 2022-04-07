@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Week 12 - Data"
+date:   2022-04-06 17:54:21 -0500
+categories: work
+tags: work
+---
+
+This week I began to use datasets and created some basic visualizations for them!
+
+I primarily utilized [Kaggle][kaggle] for this, which has a number of open source datasets and also provides a Jupyter notebook to use.
+
+[kaggle]: https://www.kaggle.com/
+
+Jupyter notebook allows you to take code chunks and run them one by one so it is very helpful for this project.
+
+In addtion, I used Pandas and MatPlotLib in Python in order to use and graph the data.
+
+Pandas-A data analasis tool that lets you sort and change data for use in charting.
+MatPlotLib-A library for charting data in various ways
+
+<br>
+
+I used a simple data set for this part of the project, as I wanted to get a handle on using the tools before I moved onto more complicated datasets. I utilized a TED Talk data set, which had data on all TED Talk videos including the speaker, view count and like count. After a bit of issues with getting set up, I began to take the data and morphed it in a number of ways:
+
+1. I first Sorted the data by author name, and summing the total like and view counts.]
+2. After this, I also got a count of the number of videos each speaker had.
+3. Then, I combined these datasets to have a single datasets which contained the author name, their total views, total likes, and total number of videos
+
+After collecting this data in this way, I charted it in the following ways:
+
+1. Top 20 Ted Talk Speakers: This charted the top 20 speakers in terms of view count, and displayed them in a Bar Graph.
+2. View Point Plot/Like Point Plot Vs. Video Count: This was two point plots, comparing the number of views/likes a speaker recieved, relative to the amount of videos they had posted.
+3. 3D Point Plot Views Vs. Likes Vs. Videos: This put points on a 3D point plot relative to how many views, likes and number of videos a person had.
+
+My part 1 project can be found [here][Project1]!
+
+[Project1]: https://www.kaggle.com/code/edmarrs/ted-talk-data/settings
+   
+<br>
+Overall, it is very interesting working on these datasets, and I look forward to using Kaggle to chart more complex datasets!
+
+
+ 
+
+
+
+
+
+
+
+
+
+
