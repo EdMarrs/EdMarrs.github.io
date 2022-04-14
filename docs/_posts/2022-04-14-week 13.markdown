@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Week 12 - Data Part 2"
+date:   2022-04-13 17:54:21 -0500
+categories: work
+tags: work
+---
+
+This week I continued to work on Data Visualization with a new dataset.
+
+I primarily utilized [Kaggle][kaggle] for this, which has a number of open source datasets and also provides a Jupyter notebook to use.
+
+[kaggle]: https://www.kaggle.com/
+
+
+<br>
+
+For part 2 of Data Visualization, I utilized a new more complex dataset which charted Video Game Sale Data over the course of 40 Years on Various Platforms. I chose this dataset as it would likely be something a student of mine would utilize when working on a similar project. I also myself am somewhat interested in this data.
+
+After beginning and setting up the new project, I looked through the dataset. It contained data for the name of the game, platform the game was on, the year it released, the Genre, the publisher, sale data for all regions (NA,EU,JP,Other and Global), the Critic Score and Count, the user Score and Count, the developer and the Age rating of the game.
+
+I decided to make different charts than last time, so I can learn the different tools MatPlotLib and Pandas offers.
+
+First, I made 2 Pie Charts. The first showed the global revenue of specific game genres. This data shows that Action Games take up a large percent of all global sales.
+The second one showed the global revenue of specific game genres published by Nintendo. From the data, it shows that they primarily publish Platformer Games, and accounts for half of the revinue of all platformer games.
+
+After working with Pie Charts, I decided to chart the total global revinue on each platform in 5 year increments. This required me to consolidate all the data by platform into 5 year chunks of data, and use that to visualize the data. 
+
+By Charting this data, it was easy to see which platforms spiked in terms of game sales and how they compared to other platforms. It also was easy to see when game platforms as a whole were popular in general.
+
+Lastly, I wanted to work with box-whisker plots to see how that data could be used. I first used this data to chart the global game sales of the previous last-gen systems, the PS4, Wii U and Xbox One. This data showed that many of the sales for games did not even remotely approch the best sellers for each individual console in terms of sales.
+I also used a box-whisker plot to chart how a games age rating affects its sales. From the data, I was able to see that Mature Games tended to have the highest median and upper limits, making it a very popular market to cater towards.
+
+My part 2 project can be found [here][Project2]!
+
+[Project2]: https://www.kaggle.com/edmarrs/videogamesaledata
+   
+<br>
+I very much enjoyed working with Kaggle and this data, and I would like to do a lesson on Data Visualization myself when I become a teacher in the classroom. I beleive that using this data specifically would be very interesting to students!
+ 
+
+
+
+
+
+
+
+
+
+
