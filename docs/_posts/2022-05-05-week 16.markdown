@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Week 16-Final Project & Reflection"
+date:   2022-05-05 17:54:21 -0500
+categories: work
+tags: work
+---
+
+This week I continued to work on Data Visualization with a new dataset.
+
+My final project can be found [Here][fp]!
+
+[fp]: https://edmarrs.github.io/files/EdMarrs-EducationalTechnologiesFinalProject.docx
+
+<br>
+
+Final Reflection
+
+
+For the final project, I researched a variety of fields within the realm of technology and how they relate to (and can be used in) the field of education. At the beginning of the project, I did a bit of research into some of the hot topics in Technology Education. From this research, I decided to look at three topics more closely: VR, 3D Modeling and Printing, and Games. Each of these topics are currently at the forefront of technology in the classroom, so I believed that it would be a good idea to look into each of these to learn more about them, as well as write a lesson plan for that topic.
+<br>
+The first topic I looked into was VR. To begin, I looked at the hardware that was currently being used in classrooms today, as well as the cost of each to implement in a classroom. From this I looked into Standalone setups such as the Oculus Quest and Google Cardboard, to more advanced setups like the HTC Vive or Valve Index. After looking at these, I decided to focus my lesson on the use of the Google Cardboard, as it was the cheapest option that allowed students to use android phones to act as a screen. I also researched development tools for the Google Cardboard, and found a number of resources. The forefront of these tools was clearly Unity with the Google VR SDK, as it offered the most comprehensive toolset. There also existed a number of useful lesson plans and project ideas that could be used later in the class.
+<br>
+After researching VR, I moved to my next topic: 3D Modeling and 3D printing. Like before I separated my research into software and hardware. When looking into the various programs that exist, I found two very promising ones. TinkerCAD which is a beginner friendly 3D modeling software, and Blender which is far more advanced. I also researched a bit into slicing programs which converts the 3D model into the code for the 3D printer. From this I found I had a number of free options, but many people preferred to use one called Creality Slicer for it’s ease of use. Lastly, I did some research into the printers themselves, and I managed to find a number of options depending on a school’s budget. When designing this lesson plan, I decided to design a basic intro lesson by using TinkerCad, as it would be the easiest for newcomers to work with. I also designed the lesson plan with the 3D printer in mind, talking about the restrictions that come with printing a 3D model. TinkerCAD also had a wealth of options for learning, with a ton of lesson plans to get ideas from.
+<br>
+Lastly, I looked into the use of games in education. This is a huge topic these days, so I had a ton of resources of information. I myself have worked with games and education quite a lot, so I am quite familiar with some of the tools. I decided to split my research into two categories, Game Software used for Education, and Game Development tools. For Game Software I found three very good options, Minecraft Education Edition, Minecraft Pi Edition, and Roblox (which admittedly is a bit of a middle ground between the two topics). In terms of Game Development tools, I looked at some of the major tools used in the industry that can be taught in classrooms and found three engines that are commonly used: Unity, Game Maker Studio 2 and Unreal Engine 5. After gathering all this info, I decided to focus my lesson on using Minecraft Pi Edition to teach students about Python code. This offered students the opportunity to see the code changes they made be reflected in real time. I also found a lot of useful lesson plans and reference while researching, which would be very helpful in making more lessons.
+<br>
+Overall, I learned a ton while doing research for this project. There were a lot of unique technologies and tools that I did not know about before doing this research, and now I feel that I would be confident enough to design the curriculum for a class in these topics. I hope I will get a chance to teach some or all of these topics when I eventually have my own classroom.
+
+
+
+
+
+
+
