@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "EDU 5507 Intro to CS Ed Pedagogy-Week 1-Computer Science Learning Standards Analysis"
+date:   2022-05-31 10:54:21 -0500
+categories: work
+tags: work
+---
+
+
+## Computer Science Learning Standards Analysis
+
+A.	Based on the standards there appears to be priorities on Computers in Society, Programming, Computer Systems and Digital Literacy. These Standards tend to be the foundations of computer science. Computers in society seems to be a focus on the ethical issues surrounding computers in today’s world. Programming seems to be on utilizing code and algorithms to create systems. Computer systems is a focus on how systems are designed in order to best suit users. Lastly, Digital Literacy is a focus on the general use of the computer for daily life, as well as things such as cybersecurity for staying safe online. These standards appear to be the general themes in the computer science learning standards.
+<br>
+B.	The theme that tends to be shown most prominently throughout the learning standards is the focus on real world applications of computer science concepts. Computer science as a subject is based very heavily in the day-to-day activities of the real world. The focuses on code and system design are very applicable to the software industry, so it makes sense that this theme is pertinent. In addition, the ideas of digital literacy and computer ethics are useful, as they can be used in everyday life in our technologically advancing world.
+<br>
+C.	The theme that appears to be lacking slightly is that of system design. For both developers and users, it is vital to have an understanding of the design choices in software. A better understanding of this material would allow users to have a greater understanding of software, as well as increased digital literacy when exploring it. I believe that there should be a bit more of a focus on these concepts within the standards.
+
+
