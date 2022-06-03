@@ -8,13 +8,27 @@ tags: work
 
 
 ## Computer Science Learning Standards Analysis
+### NYSED CS Learning Standards 
 
-A.	Based on the standards there appears to be priorities on Computers in Society, Programming, Computer Systems and Digital Literacy. These Standards tend to be the foundations of computer science. Computers in society seems to be a focus on the ethical issues surrounding computers in today’s world. Programming seems to be on utilizing code and algorithms to create systems. Computer systems is a focus on how systems are designed in order to best suit users. Lastly, Digital Literacy is a focus on the general use of the computer for daily life, as well as things such as cybersecurity for staying safe online. These standards appear to be the general themes in the computer science learning standards.
+A.	Based on the NYSED CS Learning Standards there appears to be priorities on Computers in Society, Programming, Computer Systems and Digital Literacy. These Standards tend to be the foundations of computer science. Computers in society seems to be a focus on the ethical issues surrounding computers in today’s world. Programming seems to be on utilizing code and algorithms to create systems. Computer systems is a focus on how systems are designed in order to best suit users. Lastly, Digital Literacy is a focus on the general use of the computer for daily life, as well as things such as cybersecurity for staying safe online. These standards appear to be the general themes in the computer science learning standards.
 <br>
 
-B.	The theme that tends to be shown most prominently throughout the learning standards is the focus on real world applications of computer science concepts. Computer science as a subject is based very heavily in the day-to-day activities of the real world. The focuses on code and system design are very applicable to the software industry, so it makes sense that this theme is pertinent. In addition, the ideas of digital literacy and computer ethics are useful, as they can be used in everyday life in our technologically advancing world.
+B.	The theme that tends to be shown most prominently throughout the NYSED CS learning standards is the focus on real world applications of computer science concepts. Computer science as a subject is based very heavily in the day-to-day activities of the real world. The focuses on code and system design are very applicable to the software industry, so it makes sense that this theme is pertinent. In addition, the ideas of digital literacy and computer ethics are useful, as they can be used in everyday life in our technologically advancing world.
 <br>
 
-C.	The theme that appears to be lacking slightly is that of system design. For both developers and users, it is vital to have an understanding of the design choices in software. A better understanding of this material would allow users to have a greater understanding of software, as well as increased digital literacy when exploring it. I believe that there should be a bit more of a focus on these concepts within the standards.
+C.	The theme that appears to be lacking slightly is that of system design. For both developers and users, it is vital to have an understanding of the design choices in software. A better understanding of this material would allow users to have a greater understanding of software, as well as increased digital literacy when exploring it. I believe that there should be a bit more of a focus on system design, as it is a vital part of the buisness world when it comes to program usability. 
 
+Overall, with the  New York State Education Department Standards. There is a nice balance of focus on many aspects of computer science. However, I beleive that it is lacking in design/usability aspects, which should increase within the standards.
+
+### CSTA Learning Standards
+
+A.	Based on the CSTA Learning Standards there appears to be higher priorities on Program Development and Data Analysis, with computer impacts and networking being less represented themes. Program Development appears to focus on programming, algorithms and debugging primarily. Data analysis also focuses on outcome prediction based on code. Computer impacts and networking are much less represented, as the standards more focus on the technical programming aspects of computer science.
+<br>
+
+B.	The major themes that appear within the CSTA Learning standards are the focus on programming & algorithms, as well as analysis of those programs. The focus on these two subjects displays a greater focus on program development and understanding, rather than real-life application of the material. These themes are valuable for application development.
+<br>
+
+C.	The CSTA Learning standards tend to lack in the practical applications of computer programs. This includes aspects such as ethics and how programming effects the world. It also lacks in ideas about computer networking, which I beleive is also a vital part of computer science. The lacking of these two subjects lead to a somewhat lopsided understanding, which may negatively impact students in the future. I believe that these standards should improve their focus in the aspects of Impacts and Networking.
+
+Overall, with the Computer Science Teachers Association standards, there is a much greater focus on the programming aspects. While these are important, I beleive that some of these standards should be combined in order to make more standards in relation to real world application/impacts, as well as networking.
 
