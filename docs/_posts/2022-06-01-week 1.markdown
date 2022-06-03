@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EDU 5507 Intro to CS Ed Pedagogy-Week 1-Computer Science Learning Standards Analysis"
-date:   2022-05-31 10:54:21 -0500
+date:   2022-06-01 10:54:21 -0500
 categories: work
 tags: work
 ---
