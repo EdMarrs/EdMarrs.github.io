@@ -11,6 +11,8 @@ tags: work
 ##### By Ed Marrs
 ##### 6/29/22
 
+#### Introduction Video
+<iframe src="https://drive.google.com/file/d/1v7hGdU9ABk5peoIKdjHWIepnMNvPlrVP/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <!-- TOC -->
 <br>
@@ -41,7 +43,7 @@ tags: work
 #### How do they collect my data?
 &emsp;&emsp;&emsp;&emsp;User data is collected through a variety of ways. Most commonly, this is collected through search terms. The moment you search something on the Internet, information is recorded and studied by an algorithm to find out more about you. It notes specific keywords as well as sentence structure that you use to create a profile of data. Let’s say for example, you search, “What mountains are near Lake Placid, New York?” Based on this data, the algorithm knows you are looking to travel to Lake Placid in New York. Additionally, it knows specifically that you are looking for mountains and it may conclude that you are going to be hiking or camping in the area. Lastly, based on the use of proper sentence structure and grammar, it also recognizes that you are perhaps an educated individual. This single sentence search query has given the algorithms an immense amount of data to learn about you.
 
-&emsp;&emsp;&emsp;&emsp;Additionally, smartphones are another large source of data collection. Through sensors like microphones and cameras, as well as geolocation data, companies are able to learn about the area around you. Recently, other smart devices like personal assistants and fitness trackers are able to gather even more information, such as daily activities and biometric data of the user (Aitken, 2021)[^1]. As show in Figure 2 (Wright 2020)[^9], during the Covid-19 outbreak students would use their smartphones for practically all of their daily activities, with very few taking precautions to avoid data collection. Figure 2 displays smartphones and smart devices as a great source for data collection and advertising.
+&emsp;&emsp;&emsp;&emsp;Additionally, smartphones are another large source of data collection. Through sensors like microphones and cameras, as well as geolocation data, companies are able to learn about the area around you. Recently, other smart devices like personal assistants and fitness trackers are able to gather even more information, such as daily activities and biometric data of the user (Aitken, 2021)[^1]. As shown in Figure 2 (Wright 2020)[^9], during the Covid-19 outbreak students would use their smartphones for practically all of their daily activities, with very few taking precautions to avoid data collection. Figure 2 displays smartphones and smart devices as a great source for data collection and advertising.
 
 ![Things Students typically do on their smartphones](https://www.communication-generation.com/wp-content/uploads/2020/06/image-3.png "Things Students typically do on their smartphones")
 <sup>Figure 2. Things Students typically do on their smartphones[^9].</sup>
