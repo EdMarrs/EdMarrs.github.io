@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Profits of Surveillance - Impacts of Computing Final Paper"
+title:  "The Profits of Surveillance - Impacts of Computing Final Project"
 date:   2022-06-29 10:54:21 -0500
 categories: work
 tags: work
