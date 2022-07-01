@@ -8,13 +8,13 @@ tags: work
 
 
 # The Profits of Surveillance
-#####By Ed Marrs
-#####6/29/22
+##### By Ed Marrs
+##### 6/29/22
 
 
 <!-- TOC -->
 <br>
-##### Table of Contents
+#### Table of Contents
   - [What is Surveillance Capitalism?](#what-is-surveillance-capitalism)
   - [How do they collect my data?](#how-do-they-collect-my-data)
   - [What is my data used for?](#what-is-my-data-used-for)
@@ -32,13 +32,13 @@ tags: work
 
 &emsp;&emsp;&emsp;&emsp;It has become extremely common for people to tell stories like this today. Almost everyone has had an experience of relevant advertisements suddenly appearing after a few searches or after having had a conversation with another person. Even as I type and research this paper, I am receiving advertisements for plagiarism checkers and citation generators.  This worrying trend of targeted advertising, also known as Surveillance Capitalism, is an ever-growing issue in our heavily digitized society.
 
-##### What is Surveillance Capitalism?
+#### What is Surveillance Capitalism?
 &emsp;&emsp;&emsp;&emsp; Coined by the Harvard professor Shoshana Zuboff, Surveillance Capitalism can be described as the collection of user data in order to turn a profit (Zuboff, 2019)[^10]. Spearheaded by Google and Facebook, this new form of revenue generation is a juggernaut of an industry. In 2021, the use of Surveillance Capitalism in Google ads was the main source of revenue for Alphabet Inc., earning $257.6 billion US dollars for the company (Alphabet Inc., 2022)[^2]. As shown in Figure 1 (Statista 2019)[^5], there has been a rapid increase in advertising revenue over the past 10 years through the internet, and advertising revenue is expected to grow even further. This trend shows the immense power that online advertisements have in revenue generation, and how surveillance capitalism seeks to profit from this growing trend.
 
 ![The Changing Face of the U.S. Advertising Landscape](https://cdn.statcdn.com/Infographic/images/normal/10269.jpeg "The Changing Face of the U.S. Advertising Landscape")
 <sup>Figure 1. The Changing Face of the U.S. Advertising Landscape[^5]</sup>
 
-##### How do they collect my data?
+#### How do they collect my data?
 &emsp;&emsp;&emsp;&emsp;User data is collected through a variety of ways. Most commonly, this is collected through search terms. The moment you search something on the Internet, information is recorded and studied by an algorithm to find out more about you. It notes specific keywords as well as sentence structure that you use to create a profile of data. Let’s say for example, you search, “What mountains are near Lake Placid, New York?” Based on this data, the algorithm knows you are looking to travel to Lake Placid in New York. Additionally, it knows specifically that you are looking for mountains and it may conclude that you are going to be hiking or camping in the area. Lastly, based on the use of proper sentence structure and grammar, it also recognizes that you are perhaps an educated individual. This single sentence search query has given the algorithms an immense amount of data to learn about you.
 
 &emsp;&emsp;&emsp;&emsp;Additionally, smartphones are another large source of data collection. Through sensors like microphones and cameras, as well as geolocation data, companies are able to learn about the area around you. Recently, other smart devices like personal assistants and fitness trackers are able to gather even more information, such as daily activities and biometric data of the user (Aitken, 2021)[^1]. As show in Figure 2 (Wright 2020)[^9], during the Covid-19 outbreak students would use their smartphones for practically all of their daily activities, with very few taking precautions to avoid data collection. Figure 2 displays smartphones and smart devices as a great source for data collection and advertising.
@@ -51,12 +51,12 @@ tags: work
 ![Growing share of Americans say they use Youtube](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_social-media_0-01.png "Growing share of Americans say they use Youtube")
 <sup>Figure 3. Growing share of Americans say they use Youtube.[^3]</sup>
 
-##### What is my data used for?
+#### What is my data used for?
 &emsp;&emsp;&emsp;&emsp;Let’s go back to our previous search query, “What mountains are near Lake Placid, New York?” As stated before, the algorithm knows you are looking to travel to Lake Placid in New York, and therefore should try to advertise local hotels and eateries in the area. Additionally, since it thinks that you are going to be hiking or camping in the area, it may try to target ads such as hiking or camping gear. Based on its knowledge that you are an educated individual, it also may target ads for schools and colleges in the area, as well as books and maps detailing Lake Placid. This data collected is put into a user profile of sorts. This keeps track of everything you do on that platform, and is able to create conclusions about you as an individual.
 
 &emsp;&emsp;&emsp;&emsp;As another example, let’s say that you visit your local gym three to four times a week. Based on geolocation data gathered from your phone, it is able to tell exactly where you are, and how long you spend there. Additionally, using your smart watch it is also able to tell your heart rate, and that it increases significantly when you are within the gym. From this data, it is able to extrapolate that you are likely to be a very fit individual, and work out at a public gym, rather than at your home or outside. From there, it knows to tailor advertisements for healthy meals, as well as gym clothes. Just from this one simple act of visiting the gym, companies can learn a lot about you as an individual, and which ads might prove most effective on you. This is the heart of Surveillance Capitalism, making a profit based on the data from an individual.
 
-##### How does Surveillance Capitalism affect me?
+#### How does Surveillance Capitalism affect me?
 &emsp;&emsp;&emsp;&emsp;As previously stated, the goal of Surveillance Capitalism is to commoditize user data for various purposes. This concept is a double-edged sword. Some people may find this level of surveillance beneficial to them, through the optimization of services they use and optimization of society as a whole. For example, some people may find it beneficial to have targeted ads as they assist them in making purchases.
 
 &emsp;&emsp;&emsp;&emsp;However, there are a lot of negative implications of the expansion of Surveillance Capitalism as well. The primary concerns are those regarding free speech and privacy rights. In a world with little to no anonymity and privacy, there is concern about a person’s right to exercise their free speech, as well as the influence that targeted advertising may have on their free speech. In the podcast “Rabbit Hole,”Guillaume Chaslot, a former google engineer, spoke about the underlying algorithms within YouTube, and how the user-data collected was used to direct public opinion through the “Suggested Videos” feature. When a user watches a video on YouTube, the algorithm will commonly suggest similar videos, as well as other videos based on the user’s watch history. The algorithm designed also priorities watch time in order to turn a larger profit. By design, the algorithm promotes people to constantly be consuming videos for long hours. This results in videos that are “more of the same” which can have a huge impact on a person’s perception. Guillaume provides the example of a protest event in Cairo, Egypt.
@@ -64,12 +64,12 @@ tags: work
 
 This “more of the same” mentality pushed by the engineers at Google shows a dangerous ability to influence the public in harmful ways.
 
-##### How is it Legal?
+#### How is it Legal?
 &emsp;&emsp;&emsp;&emsp;In addition to this, most free services require users to agree to a terms and conditions document before utilizing their services. By agreeing to these documents, users are explicitly allowing companies to take this data from them and use it however they’d like. Additionally, companies will commonly disregard current consumer protection laws and pay negligible sums to settle the allegations with the federal trade commission (Watson, 2021)[^8].
 
 &emsp;&emsp;&emsp;&emsp;Recently however, many countries have begun enacting specific laws regarding the collection and selling of private user data. In 2016, the European Parliament adopted the United Kingdom’s General Data Protection (GDPR), which was fully enforced by 2018. California currently has 25 different privacy and data security laws, which put substantial requirements and restrictions on the collection and use of collected data. Lastly, the Children’s Online Privacy Protection Rule (COPPA) also helps protect children’s data from being collected for selling. Many state-funded schools have also enacted policies that prohibit teachers from using certain teaching tools and platforms in order to adhere to COPPA standards (Data Protection Laws of the World, n.d.)[^4].
 
-##### How can I protect myself against data collection?
+#### How can I protect myself against data collection?
 It can be challenging to avoid the use of our data, but there are a number of useful tools to reduce the amount of data collected from you (VPNreports, 2022)[^7]:
 1.	Use a Virtual Private Network (VPN)- A VPN allows your data to travel through a secure, encrypted private network which helps protect what data you give to companies.
 2.	Use an anonymous search platform-Browsers such as Tor do not collect user data, and using certain google chrome add-ons can also help mitigate data sent. Search engines like DuckDuckGo also do not collect user data.
@@ -90,7 +90,7 @@ Surveillance Capitalism can be a terrifying entity that is difficult to avoid du
 
 
 
-##### References
+#### References
 
 [^1]: Aitken, N. (2021, January 27). The secrets behind how much data your smartphone collects about you. WhatPhone. Retrieved June 29, 2022, from https://whatphone.com.au/guide/The-Scary-Secrets-behind-How-Much-Data-Your-Smartphone-Collects-About-You
 
