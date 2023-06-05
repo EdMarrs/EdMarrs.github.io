@@ -11,11 +11,11 @@ tags: work
 ##### By Ed Marrs
 ##### 6/5/23
 
-##### Python:
+### Python:
 Link to Kaggle Notebook:
 https://www.kaggle.com/code/edmarrs/grades-chart
 
-##### R:
+### R:
 
 For R, I had a bit of background knowlege but used a couple of online tutorials in order to help myself out.
 
