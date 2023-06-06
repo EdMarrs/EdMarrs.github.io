@@ -84,9 +84,9 @@ From there, I was able to generate the pie graph to show the data.
 ```
 Overall, R is a very helpful tool for generating quick graphs and looking at data.
 
-###Alternate Data Visualization
+### Alternate Data Visualization
 ![tbg1](https://edmarrs.github.io/images/USPopulation.png)
 ![tbg1](https://edmarrs.github.io/images/MTvSt.png)
-####Fresh Drinking Water % by Country
+#### Fresh Drinking Water % by Country
 ![tbg1](https://edmarrs.github.io/images/cleanWater.jpg)
 
