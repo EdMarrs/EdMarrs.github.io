@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Introduction to Python Charts and R"
+date:   2023-06-05 10:54:21 -0500
+categories: work
+tags: work
+---
+
+
+# Continuing Python and R
+##### By Ed Marrs
+##### 6/12/23
+
+###The Simple Things a Data Science Beginner Needs to Know
+
+I found this article interesting to read as someone somewhat new but also somewhat familiar to data collection and data science. Specifically I found the parts about automation and machine learning algorithms most intersting. I also liked reading about the specific categories of data collection that data can fall into with supervised and unsupervised learning. I beleive that both of them serve very good specific purposes when collecting and utilizing data. Overall, it was a very interesting article to read.
+
+### Python:
+Link to Kaggle Notebook (Scroll down to see latest info):
+https://www.kaggle.com/code/edmarrs/grades-chart
+
+A Majority of the Python I already had done in my previous work last week, so I skipped around a bit, and focused more heavily on R which I have less experience with.
+
+### R:
+For R, I used the following file [here][code].
+
+[code]: https://edmarrs.github.io/files/R-Week2.R
+
+It started off relatively simple, but started getting very complicated towards the end and some of the questions weren't very clear, so I did my own outside research to assist in answering the questions.
